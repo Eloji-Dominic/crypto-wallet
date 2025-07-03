@@ -450,7 +450,8 @@ body.active{overflow: hidden;}
 .cta .btn-primary{
   display: flex;
   justify-content: center;
-  gap: 5px;
+  align-items: center;
+  gap: 15px;
   margin-inline: auto;
   margin-block-start: 30px;
 }
